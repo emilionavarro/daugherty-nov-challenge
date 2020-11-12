@@ -1,3 +1,5 @@
+# Pastry Troubles
+
 Your good friend Le Chef Benoit is a famous pastry chef in your city. His shop, Sucre, is one of the most well-known in the world! Knowing that you're a great developer, Le Chef Benoit has come to you for help to optimize his sales in the upcoming holiday.
 
 Every Thanksgiving, he receives hundreds of orders. Unfortunately, there are more orders than he can fulfill. Though he has the man power and ovens to bake thousands of pastries and pies in a day, his shop has limited flour stores (500 lbs / 60,000 grams). Le Chef Benoit would like to optimize the method for choosing which orders to fulfill in order to maximize profit given the flour limitation.
