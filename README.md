@@ -46,3 +46,7 @@ PLUS
 ```
 
 which comes to a total of 95.41 grams of flour.
+
+## The Data
+
+[https://raw.githubusercontent.com/emilionavarro/daugherty-nov-challenge/main/pastry_orders.json](https://raw.githubusercontent.com/emilionavarro/daugherty-nov-challenge/main/pastry_orders.json)
